@@ -12,3 +12,5 @@ exclude:
 - "*/README.md"
 - "*/.gitkeep"
 - ".gitkeep"
+
+theme: jekyll-theme-cayman
