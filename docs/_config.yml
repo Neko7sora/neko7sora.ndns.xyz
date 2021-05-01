@@ -1,4 +1,4 @@
- theme: minima
+theme: minima
 
 plugins:
   - jekyll-redirect-from
@@ -12,5 +12,3 @@ exclude:
 - "*/README.md"
 - "*/.gitkeep"
 - ".gitkeep"
-
-theme: jekyll-theme-cayman
